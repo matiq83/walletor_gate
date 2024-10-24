@@ -26,7 +26,6 @@ define('WALLETOR_GATE_ASSETS_DIR_URL', WALLETOR_GATE_PLUGIN_URL . 'assets/');
 define('WALLETOR_GATE_ASSETS_DIR_PATH', WALLETOR_GATE_PLUGIN_PATH . 'assets/');
 define('WALLETOR_GATE_SETTINGS_KEY', '_walletor_gate_options');
 define('WALLETOR_GATE_TEXT_DOMAIN', 'walletor_gate');
-define('WALLETOR_GATE_UPDATE_URL', 'http://portfolio.itfledge.com/wp0822/wp-content/plugins/');
 
 //Plugin update checker
 require WALLETOR_GATE_PLUGIN_PATH . 'update/plugin-update-checker.php';
